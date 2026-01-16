@@ -1,0 +1,76 @@
+HackRF One:
+	-Half Duplex (nur sender oder empfangen gleichzeitig)
+	-30 - 6000 Mhz
+	-20 Mhz Bandweite
+
+ideales Software Radio:
+	-reprogrammable for various applications
+	-update over-the-air
+	=> nicht machbar weil ein Analog to Digital Converter (ADC) mit einer so großen Breite an Frequenzen noch nicht umsetzbar ist
+
+Software Defined Radio:
+	-nutzt Field Programmable Grid Array (FPGA) welche programmiert werden können jedoch nicht sehr flexibel sind
+	
+mögliche Modulierungen:
+	- Frequency Modulation FM (Daten über Trägerfrequenz zu Sendefrequenz Differenz übermittelt)
+	-Single Side Band SSB (Amplitude Modulation aber nur eine Seite der Bandweite der Original Signals wird gesendet, da beide Seiten redundant sind)
+	-On-Off keying OOK (Trägerwelle an = 1 Trägerwelle aus = 0)
+	-Binary Phase Shift Keying BPSK (Das Signal wechselt zwischen zwei verschiedenen Phasen (z.B. Sin und cos) um 0 und 1 darzustellen
+	-8-PSK benutzt 8 verschiedene Phasen welche jeweils mehrere bits darstellen z.B. Gray coded (000, 001, 011, 010, 110, 111, 101, 100 dann wieder 000)
+
+rtl-sdr.com hat Infos zu receive only SDRs und Prjekten inkl. Hacking und Sniffing
+-unter about ist auch eine Liste von Möglichen anwendungen von RTL-SDRs:
+	-Sniffing GSM signals
+	-Receiving GPS signals and decoding them
+	-Reverse engineering unknown protocols
+-auch unter about sind nützliche weblinks
+
+HackRFOne leist manchmal "Ghost frequencies" aus -> probieren rauszurechnen für akkurate Lesungen
+
+GNSS (Global Navigation Satelite System): 
+	-GPS und ähnliche Ortsbestimmungssysteme welche auf Signalstärken, Zeit und Namen von Satelliten beruhen
+	-Sind anfällig für Spoofing (Signal betrug) durch Legitime Signale (zum Beispiel von einem anderen Ort oder einer anderen Zeit)
+	-GNSS spoofing anhand von HackRF One möglich jedoch sind sie abhängig von Signalstärke => räumlich begrenzt
+
+GNU Radio Companion(GRC) kann einfach auf Ubuntu aufgesetzt werden 
+HackF Spectrum Analyzer Software:
+https://github.com/pavsa/hackrf-spectrum-analyzer
+Cubic SDR Software for SDR
+Mayhem Firmware für HackRF one anschauen
+
+Video zu Tricks vom Erfinder des HackRF One:
+https://www.irongeek.com/i.php?page=videos/defcon-wireless-village-2014/18-sdr-tricks-with-hackrf-michael-ossmann
+
+Video zu Software Designed Radios: von Micheal Ossman
+https://greatscottgadgets.com/sdr/
+
+
+
+
+Paper (BiBTex):
+@inproceedings{martoyo2018software,
+  title={Software defined radio for education: Spectrum analyzer, fm receiver/transmitter and gsm sniffer with hackrf one},
+  author={Martoyo, Ihan and Setiasabda, Paul and Kanalebe, Herman Y and Uranus, Henri P and Pardede, Marincan},
+  booktitle={2018 2nd Borneo International Conference on Applied Mathematics and Engineering (BICAME)},
+  pages={188--192},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{calderon2024detection,
+  title={Detection and Analysis of Flipper Zero Deauthentication Signals Using HackRF One Software-Defined Radio},
+  author={Calderon, Leonel and Salvador, Geoffrey T},
+  booktitle={2024 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT)},
+  pages={798--804},
+  year={2024},
+  organization={IEEE}
+}
+
+@inproceedings{lai2024research,
+  title={Research on Low Cost Spoofing Implementation of GPS Based on HackRF One},
+  author={Lai, Jiang-feng and Ma, Xiang-tai and Hu, Yan-feng},
+  booktitle={International Conference on Guidance, Navigation and Control},
+  pages={317--329},
+  year={2024},
+  organization={Springer}
+}

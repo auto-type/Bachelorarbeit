@@ -1,0 +1,223 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.1)  4 DEC 2025 19:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Exposee.tex
+(./Exposee.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count270
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box52
+)
+(./Exposee.aux)
+\openout1 = `Exposee.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+ (./Exposee.toc)
+\tf@toc=\write3
+\openout3 = `Exposee.toc'.
+
+
+Overfull \hbox (1.60248pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 ter-schiedlich-ster Funk-tio-nen [[]]. Smarte Haushalts-ger^^?a
+te di-enen dazu Haushalts-
+ []
+
+
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (12.05505pt too wide) in paragraph at lines 30--35
+\OT1/cmr/m/n/10 SDR kon-nten Sicher-heits-forscher ver-schiedene Sys-teme auf V
+ul-ner-a-bilit^^?aten pr^^?ufen.
+ []
+
+
+Overfull \hbox (27.61186pt too wide) in paragraph at lines 52--55
+\OT1/cmr/m/n/10 Sys-te-men in Deutsch-land stetig zu-nimmt e.vSmartHomeAnwendun
+genFastJedem2024,
+ []
+
+
+Overfull \hbox (8.72739pt too wide) in paragraph at lines 52--55
+\OT1/cmr/m/n/10 ten. Durch wach-sende Ver-bre-itung von Smart Home Ger^^?aten, 
+wie fern-steuerbaren
+ []
+
+
+Overfull \hbox (3.51917pt too wide) in paragraph at lines 57--60
+\OT1/cmr/m/n/10 Sicher-heits-stan-dards haben. Auch leg-isla-tive Einfl^^?usse 
+machen eine Au-far-beitung
+ []
+
+
+Overfull \hbox (15.34285pt too wide) in paragraph at lines 57--60
+\OT1/cmr/m/n/10 das \OT1/cmr/m/it/10 Geb^^?audeenergiegesetz \OT1/cmr/m/n/10 un
+ter an-derem W^^?armepumpen und Solarthermie-Systeme
+ []
+
+
+
+[2]
+Overfull \hbox (3.86172pt too wide) in paragraph at lines 63--65
+\OT1/cmr/m/n/10 ulieren, Fre-quenzbere-iche nach ak-tiven Sendern abzuhorchen o
+der aufgenommene
+ []
+
+
+Overfull \hbox (2.13956pt too wide) in paragraph at lines 75--76
+\OT1/cmr/m/n/10 Home Sicher-heit), Im-ple-men-tierungsaufwand und Um-set-zbarke
+it f^^?ur Studierende
+ []
+
+
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
+
+ []
+
+
+Overfull \hbox (0.83385pt too wide) in paragraph at lines 103--104
+\OT1/cmr/m/n/10 getestet wer-den ist ein genauer Zeit-punkt f^^?ur die Meilen-s
+teine noch nicht w^^?agbar.
+ []
+
+
+
+[4]
+
+LaTeX Warning: Reference `item:II' on page 5 undefined on input line 114.
+
+(./Exposee.bbl
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+[]\OT1/cmr/m/n/10 B. e.V, ``Smart-Home-Anwendungen in fast je-dem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+\OT1/cmr/m/n/10 zweiten Zuhause \OMS/cmsy/m/n/10 j \OT1/cmr/m/n/10 Pres-se-in-f
+or-ma-tion \OMS/cmsy/m/n/10 j \OT1/cmr/m/n/10 Bitkom e. V..''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+\OT1/cmr/m/n/10 https://www.bitkom.org/Presse/Presseinformation/Smart-Home-
+ []
+
+
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+[]\OT1/cmr/m/n/10 ``HackRF One - Great Scott Gad-gets.''
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 59.
+)
+
+[6] (./Exposee.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1295 strings out of 473197
+ 21825 string characters out of 5718605
+ 418980 words of memory out of 5000000
+ 24580 multiletter control sequences out of 15000+600000
+ 563131 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,65p,761b,203s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Exposee.pdf (6 pages, 121116 bytes).
+PDF statistics:
+ 58 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

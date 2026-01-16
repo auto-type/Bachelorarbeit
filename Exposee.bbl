@@ -1,0 +1,66 @@
+\begin{thebibliography}{10}
+
+\bibitem{e.vSmartHomeAnwendungenFastJedem2024}
+B.~{e.V}, ``{Smart-Home-Anwendungen in fast jedem zweiten Zuhause \textbar{}
+  Presseinformation \textbar{} Bitkom e. V.}.''
+  https://www.bitkom.org/Presse/Presseinformation/Smart-Home-Anwendungen-in-fast-jedem-zweiten-Zuhause,
+  Aug. 2024.
+
+\bibitem{jedrzejewskiPassiveSpaceObject2022}
+K.~Jedrzejewski, M.~Malanowski, K.~Kulpa, P.~Krysik, and M.~Po{\.z}oga,
+  ``Passive {{Space Object Observation}} using {{LOFAR Radio Telescope}} and
+  {{Software-defined Radio Receiver}},'' in {\em 2022 19th {{European Radar
+  Conference}} ({{EuRAD}})}, pp.~1--4, Sept. 2022.
+
+\bibitem{vonehrSoftwareDefinedRadio2016}
+K.~VonEhr, S.~Hilaski, B.~E. Dunne, and J.~Ward, ``Software {{Defined Radio}}
+  for direction-finding in {{UAV}} wildlife tracking,'' in {\em 2016 {{IEEE
+  International Conference}} on {{Electro Information Technology}} ({{EIT}})},
+  pp.~0464--0469, May 2016.
+
+\bibitem{fengSoftwareDefinedRadioImplemented2021}
+W.~Feng, J.-M. Friedt, G.~{Goavec-Merou}, and F.~Meyer, ``Software-{{Defined
+  Radio Implemented GPS Spoofing}} and {{Its Computationally Efficient
+  Detection}} and {{Suppression}},'' {\em IEEE Aerospace and Electronic Systems
+  Magazine}, vol.~36, pp.~36--52, Mar. 2021.
+
+\bibitem{vitasEvaluationSoftwareDefined2015}
+I.~Vitas, D.~{\v S}imuni{\'c}, and P.~Kne{\v z}evi{\'c}, ``Evaluation of
+  {{Software Defined Radio}} systems for smart home environments,'' in {\em
+  2015 38th {{International Convention}} on {{Information}} and {{Communication
+  Technology}}, {{Electronics}} and {{Microelectronics}} ({{MIPRO}})},
+  pp.~562--565, May 2015.
+
+\bibitem{martoyoSoftwareDefinedRadio2018}
+I.~Martoyo, P.~Setiasabda, H.~Y. Kanalebe, H.~P. Uranus, and M.~Pardede,
+  ``Software {{Defined Radio}} for {{Education}}: {{Spectrum Analyzer}}, {{FM
+  Receiver}}/{{Transmitter}} and {{GSM Sniffer}} with {{HackRF One}},'' in {\em
+  2018 2nd {{Borneo International Conference}} on {{Applied Mathematics}} and
+  {{Engineering}} ({{BICAME}})}, (Balikpapan, Indonesia), pp.~188--192, IEEE,
+  Dec. 2018.
+
+\bibitem{calderonDetectionAnalysisFlipper2024}
+L.~Calderon and G.~T. Salvador, ``Detection and {{Analysis}} of {{Flipper Zero
+  Deauthentication Signals Using HackRF One Software-Defined Radio}},'' in {\em
+  2024 {{International Conference}} on {{Innovation}} and {{Intelligence}} for
+  {{Informatics}}, {{Computing}}, and {{Technologies}} ({{3ICT}})}, (Sakhir,
+  Bahrain), pp.~798--804, IEEE, Nov. 2024.
+
+\bibitem{daiModulationRecognitionSystem2024}
+W.~Dai and C.~Ji, ``Modulation {{Recognition System}} of {{Electromagnetic
+  Interference Signal Based}} on {{SDR}},'' {\em Telecom}, vol.~5,
+  pp.~928--940, Sept. 2024.
+
+\bibitem{HackRFOneGreat}
+``{{HackRF One}} - {{Great Scott Gadgets}}.''
+  https://greatscottgadgets.com/hackrf/one/.
+
+\bibitem{WiresharkGoDeep}
+``Wireshark {$\bullet$} {{Go Deep}} \textbar{} {{About}}.''
+  https://www.wireshark.org/about.html.
+
+\bibitem{zillnerZigBeeExploitedGood}
+T.~Zillner, ``{{ZigBee Exploited}} - {{The Good}}, the {{Bad}} and the
+  {{Ugly}},''
+
+\end{thebibliography}
