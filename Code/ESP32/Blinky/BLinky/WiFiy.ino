@@ -30,11 +30,11 @@ void setup(){
   
   WiFi.begin("rad_kitchen", "fancy-flachdach.de");
   while(WiFi.status() != WL_CONNECTED){
-    delay(500);
     Serial.print(".");
+    delay(500);
   }
   
-  Serial.print("Verbindung aufbauen mit ESP32 - IP: ");
+  Serial.print("\nVerbindung aufgebaut zu rad_kitchen mit ESP32-IP: ");
   Serial.println(WiFi.localIP());
   delay(200);
 }
@@ -51,21 +51,19 @@ void loop(){
   int erg;
 
   while(erg != 1){
-    Serial.print("Verbindungsaufbau zu Server: ");
+    Serial.print("\nVerbindungsaufbau zu Server: ");
     Serial.print(host); 
 
      erg = client.connect(host, httpPort);
      if(!erg){
       versuche++;
-      Serial.print(" Verbindungsaufbau nicht möglich! Versuch Nr: ");
-      Serial.println(versuche);
+      Serial.print("\nVerbindungsaufbau nicht möglich! Versuch Nr: ");
+      Serial.print(versuche);
   
       if (versuche > 3) {
-        Serial.print(" Verbindungsaufbau nicht möglich. \nIch versuche es bei Berührung nochmal! Versuch Nr: ");
-        Serial.println(versuche);
+        Serial.print("\nVerbindungsaufbau nicht möglich. \nIch versuche es bei Berührung nochmal! ");
         client.stop();    
         WiFi.disconnect();
-        Serial.println("Schlafe jetzt ...");
         esp_deep_sleep_start();
       }
     }
