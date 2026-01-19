@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:create-meta/templater/extract research note from selection.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ]
+}
