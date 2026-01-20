@@ -37,10 +37,10 @@ Important
 Reference
 {%- endif -%}
 {%- if color == "#2ea8e5" -%}
-Technical - Blue
+Technical 
 {%- endif -%}
 {%- if color == "#a28ae5" -%}
-Cite - Purple
+Interesting
 {%- endif -%}
 {%- endmacro -%}
 
@@ -50,9 +50,10 @@ Cite - Purple
 ### Imported on {{importDate | format("YYYY-MM-DD h:mm a")}}
 
 {%- for annotation in annotations %}
-{% if annotation.color !== "#ffd400" %}
+{% if annotation.color !== "#000000" %}
 >[!quote{% if annotation.color %}|{{annotation.color}}{% endif %}] {{calloutHeader(annotation.color)}}
 >{%- endif -%}{% if annotation.imageRelativePath %}
 ![[{{annotation.imageRelativePath}}]] {% endif %}{% if annotation.annotatedText %}
 {{annotation.annotatedText}} [(p. {{annotation.pageLabel}})](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.pageLabel}}&annotation={{annotation.id}}){%- endif %}{%- if annotation.comment%}
-%%{{annotation.comment}}%%{%- endif %}{%- endfor %}{% endif %} {% endpersist %}
+
+**Kommentar:** {{annotation.comment}}{%- endif %}{%- endfor %}{% endif %} {% endpersist %}

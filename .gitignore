@@ -1,2 +1,3 @@
 BScReferences.bib
 *.bib
+/Code/ESP32/__pycache__

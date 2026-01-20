@@ -6,3 +6,4 @@
 5.  `pip install "uvicorn[standard]"` als Server auf dem die FastApi läuft
 6. `main.py` schreiben als Skript für den Server
 7. `uvicorn main:app --reload` startet den Server
+8. Im Browser kann man über die ip `127.0.0.1:8000/docs` die API Informationen abrufen; bzw wie in Postman requests an die API abschicken
