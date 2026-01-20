@@ -35,8 +35,7 @@
               "title": "Main Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +198,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "992221f2ca2ae368",
+  "active": "e25786e80a876890",
   "lastOpenFiles": [
+    "01 notes/Main Note.md",
+    "Api Setup.md",
     "01 notes/ESP32 Setup.md",
     "01 notes/HackRF Setup.md",
     "01 notes/HackRF ToDo.md",
@@ -211,7 +212,6 @@
     "04 index",
     "03 writing",
     "02 analysis",
-    "01 notes/Main Note.md",
     "06 archives/SDR for Astrology.md",
     "Untitled 1.md",
     "SDR for Astrology.md",
