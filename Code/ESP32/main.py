@@ -10,7 +10,9 @@ def read_root():
 
 @app.get("/touch/input/pw={pw}&wert={touch}")
 def read_touch(pw: str, touch: int):
-    if(touch == 1): touches.append(touch)
-    return {"message" : "Received information from Station with password: " + pw,
-            "touch" : touch,
-            "touches since start" : len(touches)}
+    if(pw in stations):
+        if(touch == 1): touches.append(touch)
+        return {"message" : "Received information from Station with password: " + pw,
+                "touch" : touch,
+                "touches since start" : len(touches)}
+    return 

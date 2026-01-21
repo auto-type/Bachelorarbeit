@@ -1,3 +1,4 @@
+Teil von [1.]([[Vorgehensweise#^1e6654]])
 ### Command Line Tools von hackrf (*sudo apt-get install hackrf*)
 
 - `hackrf_info` Read device information from HackRF such as serial number and firmware version.
@@ -15,5 +16,6 @@ jeweils ` -h` für Übersicht über Funktionen
 ### Gnu Radio Companion:
 relativ simples Python basiertes GUI Tool zum wandeln von analogen Übertragungen zu brauchbaren Signalen
 Dokumentation und Tutorials auf dem  [wiki](https://wiki.gnuradio.org)
+[Herausfinden wie man HackRF mit GRC verbindet]([[To Do]])
 
 
