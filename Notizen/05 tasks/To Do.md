@@ -4,13 +4,16 @@
 
 - [ ] Nutzen von SDR in Bildung finden
 - [ ] offizielle Projekte von RTL SDR
+- [ ] SCA (Software Communivations Architecture anschauen) https://en.wikipedia.org/wiki/Software_Communications_Architecture
+- [x] Libre Office Tabelle übertragen
 
 ## [[Vorgehensweise#^d22303|2.]]
 - [ ] Arduino zu FastAPI Verbindung testen [[ESP32 Setup]] 
 	- [ ]  Herausfinden wie ich meinem Uvicorn Server eine feste IP zuordne
 - [ ] HackRF One basic funktionen aus [[HackRF Setup]] testen
 - [ ] Sonstige Smart Home Geräte installieren und  verbinden
-- [ ] Verbindung von HackRF mit Gnu Radio Companion testen
+- [ ] Verbindung von HackRF mit Gnu Radio Companion testen 
+	- [ ] Analog and Digital Modulation Paper enthält pretty much einen Guide für GRC
 
 ## [[Vorgehensweise#^ed5218|3.1]] 
 - [ ] Anhand von Z-Wave und HackRF testen ob Spectrum Analyzer realistisch

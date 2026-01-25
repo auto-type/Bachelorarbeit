@@ -1,0 +1,11 @@
+
+- Markov Random Field: ungerichteter Graph mit folgenden Bedingungen:
+	- alle nicht benachbarten Variablen(Knoten, Untergraphen) sind unabhängig 
+	- alle  Variablen sind unabhängig von allen anderen Variablen sofern ihre Nachbarn gegeben sind ("Markov Blanket")
+- Cognitive Radio: Ein radio was sich die Kanäöe wählt in seiner Nähe um Störungen und Verzerrung zu vermeiden
+	- Kann sich auch auf Protokolle, Modulierung und Empfänger ausweiten besonders bei SDR und Mesh Netzwerken
+- Gibbs Sampling: Stichproben Algorithmus um eine unbekannte gemeinsame Verteilung von zwei oder mehr Variablen zu schätzen
+- Cognitive Radio Implementierung mit allem oben genannten: 
+	- Jeder Weiterleitende Knotenpunkt (Node) hat eine Energiefunktion die er permanent updatet und welche er zu minimieren sucht
+	- dadurch konvergiert das gesamte Netz zu einem optimalen Punkt
+- IEEE 802.15.4 ist der Standard auf Physical Layer und MAC Layer den ZigBee verwendet
