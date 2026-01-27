@@ -16,5 +16,7 @@ Zeitplan [[Vorgehensweise]]
 
 ### Interessante aber möglicherweise Zeitintensive Ideen
 
-- OTA Updates für ESP 32  klingen 
+- OTA Updates für ESP 32  klingen spannend 
 - Simulator für HackRF finden →  Studenten können aus der Ferne daran arbeiten / vorbereiten
+- SDR nutzen um gegebenenfalls gejammte Frequenzen zu umgehen -> teil von cognitive radio
+- 

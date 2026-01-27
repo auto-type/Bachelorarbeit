@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 notes/Wikipedia Learning.md",
+                "file": "08 tables/Geräte Übersicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wikipedia Learning"
+              "title": "Geräte Übersicht"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 tasks/To Do.md",
+                "file": "01 notes/HackRF Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "HackRF Setup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,20 +199,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0197d477b2d6f19b",
+  "active": "57c7c86e55a25a9e",
   "lastOpenFiles": [
     "05 tasks/To Do.md",
+    "01 notes/HackRF Setup.md",
+    "01 notes/Kriterien für Evaluierung.md",
+    "01 notes/Main Note.md",
     "01 notes/Wikipedia Learning.md",
-    "01 notes/ESP32 Setup.md",
+    "[[To.md",
+    "01 notes/GNU Radio How To.md",
+    "08 tables/Geräte Übersicht.md",
+    "Gnu Radio How TO",
     "05 tasks/HackRF ToDo.md",
     "01 notes/Fragen für Das Bachelorseminar.md",
+    "01 notes/ESP32 Setup.md",
     "05 tasks/Vorgehensweise.md",
-    "01 notes/Kriterien für Evaluierung.md",
-    "01 notes/HackRF Setup.md",
     "[[Vorgehensweise.md",
-    "08 tables/Geräte Übersicht.md",
-    "01 notes/Main Note.md",
-    "[[To.md",
     "02 Quellen/SDR für Vertikal Lokalisierung.md",
     "meta/templater/extract research note from selection.md",
     "meta/zotero/research note.md",
@@ -228,7 +231,6 @@
     "SDR for Astrology.md",
     "meta/javascript/header.js.md",
     "meta/javascript/header.js",
-    "meta/javascript",
-    "meta/templater"
+    "meta/javascript"
   ]
 }

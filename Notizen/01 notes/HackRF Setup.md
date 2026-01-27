@@ -16,6 +16,7 @@ jeweils ` -h` für Übersicht über Funktionen
 ### Gnu Radio Companion:
 relativ simples Python basiertes GUI Tool zum wandeln von analogen Übertragungen zu brauchbaren Signalen
 Dokumentation und Tutorials auf dem  [wiki](https://wiki.gnuradio.org)
-[Herausfinden wie man HackRF mit GRC verbindet]([[To Do]])
+[[To Do| Herausfinden wie man HackRF mit GRC verbindet ]]
+
 
 
