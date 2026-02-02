@@ -9,7 +9,7 @@ Für noch umzusetzende Sachen mit dem HackRF: [[HackRF ToDo]]
 
 Generelles ToDo: [[To Do]]
 
-Generelle nicht dringende Fragen (und ihre Antworten) [[Fragen für Das Bachelorseminar]]
+Generelle nicht dringende Fragen (und ihre Antworten) [[Fragen für das Bachelorseminar]]
 
 Zeitplan [[Vorgehensweise]]
 
