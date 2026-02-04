@@ -1,5 +1,5 @@
 Teil von [1.]([[Vorgehensweise#^d22303]])
-### Command Line Tools von hackrf (*sudo apt-get install hackrf*)
+### Command Line Tools von hackrf (`sudo aptinstall hackrf`)
 
 - `hackrf_info` Read device information from HackRF such as serial number and firmware version.
 - `hackrf_transfer` Send and receive signals using HackRF. Input/output files are 8-bit signed- quadrature samples.

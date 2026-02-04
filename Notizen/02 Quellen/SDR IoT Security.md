@@ -7,6 +7,7 @@ publication: "Journal of King Saud University - Computer and Information Science
 date: 2022-07-01
 citekey: rugelesuribeTechnicalReviewWireless2022
 ---
+
 [1]
 
 J. de J. Rugeles Uribe, E. P. Guillen, and L. S. Cardoso, “A technical review of wireless security for the internet of things: Software defined radio perspective,” _Journal of King Saud University - Computer and Information Sciences_, vol. 34, no. 7, pp. 4122–4134, Jul. 2022, doi: [10.1016/j.jksuci.2021.04.003](https://doi.org/10.1016/j.jksuci.2021.04.003).

@@ -10,7 +10,7 @@
 
 ## [[Vorgehensweise#^d22303|2.]]
 - [ ] *Arduino zu FastAPI Verbindung testen [[ESP32 Setup]]* 
-	- [ ]  *Herausfinden wie ich meinem Uvicorn Server eine feste IP zuordne'*
+	- [ ]  *Herausfinden wie ich meinem Uvicorn Server eine feste IP zuordne*
 - [ ] HackRF One basic funktionen aus [[HackRF Setup]] testen
 - [ ] Sonstige Smart Home Geräte installieren und  verbinden
 - [ ] Verbindung von HackRF mit Gnu Radio Companion testen 

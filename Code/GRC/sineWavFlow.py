@@ -64,14 +64,14 @@ class sineWavFlow(gr.top_block, Qt.QWidget):
         ##################################################
         # Variables
         ##################################################
-        self.samp_rate = samp_rate = 32000
+        self.samp_rate = samp_rate = 2000000
         self.frequency = frequency = 0
 
         ##################################################
         # Blocks
         ##################################################
 
-        self._frequency_range = qtgui.Range(-samp_rate/2, samp_rate/2, 100, 0, 200)
+        self._frequency_range = qtgui.Range(0, 6000000000, 100, 0, 200)
         self._frequency_win = qtgui.RangeWidget(self._frequency_range, self.set_frequency, "'frequency'", "counter_slider", float, QtCore.Qt.Horizontal)
         self.top_layout.addWidget(self._frequency_win)
         self.soapy_hackrf_source_0 = None
